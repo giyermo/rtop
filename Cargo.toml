@@ -1,0 +1,9 @@
+[package]
+name = "rtop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sysinfo = "0.34.2"
+ratatui = "0.28"
+crossterm = "0.28.1"
